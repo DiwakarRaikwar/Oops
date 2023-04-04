@@ -1,0 +1,12 @@
+
+Inheritance - Is a oops first property -
+	
+		Parents class 
+		     |
+		     |
+		Child class 
+
+
+Here child class can acces the property of parents class , thisis known as inheritance , if you want to use property of parents class you can , 
+access through child class as well 
+
